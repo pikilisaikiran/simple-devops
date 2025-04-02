@@ -52,7 +52,7 @@ Visit: **http://localhost:5000**
 
 ## 📖 Full Guide  
 For a step-by-step explanation, follow my Medium blog:  
-👉 [Medium Blog on Deploying Flask with Docker & Kubernetes](https://medium.com/your-blog-url)  
+👉 [Medium Blog on Deploying Flask with Docker & Kubernetes](https://saikiranpikili.medium.com/devops-project-to-refresh-the-basic-concepts-ce8b624c2db4)  
 
 ---
 
